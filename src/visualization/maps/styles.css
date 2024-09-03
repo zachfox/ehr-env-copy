@@ -1,0 +1,12 @@
+#map {
+    width: 100%;
+    height: 600px;
+}
+
+.coordinates-box {
+    background-color: white;
+    padding: 5px;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
